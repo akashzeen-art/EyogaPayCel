@@ -1,4 +1,4 @@
-# Deployment Guide for yogtantra Platform
+# Deployment Guide for E-Yoga Studio Platform
 
 ## Build for Production
 
