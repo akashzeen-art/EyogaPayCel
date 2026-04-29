@@ -245,7 +245,7 @@ export default function Classes() {
   ];
 
   useEffect(() => {
-    const hasSeenPreloader = localStorage.getItem("Global Yoga Studio_preloader_shown");
+    const hasSeenPreloader = localStorage.getItem("Yogtantra Studio_preloader_shown");
     if (hasSeenPreloader) {
       setShowParticles(true);
     } else {

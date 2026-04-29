@@ -1,4 +1,4 @@
-# Deployment Guide for Global Yoga Platform
+# Deployment Guide for yogtantra Platform
 
 ## Build for Production
 

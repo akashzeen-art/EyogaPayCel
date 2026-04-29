@@ -2,7 +2,7 @@
 
 ## ✅ Build Status: SUCCESS
 
-Your Global Yoga platform is ready for deployment!
+Your yogtantra platform is ready for deployment!
 
 ### 📦 Build Output
 - **Location**: `dist/` folder
@@ -88,4 +88,4 @@ If you encounter any issues:
 
 ---
 
-**Your Global Yoga platform is production-ready! 🧘‍♀️**
+**Your yogtantra platform is production-ready! 🧘‍♀️**

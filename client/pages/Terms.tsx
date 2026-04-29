@@ -46,9 +46,6 @@ export default function Terms() {
               <p>The Platform is owned by Alphamovil Digital Solutions LLP, a company incorporated under the Companies Act, 1956. Your use of the Platform and services are governed by these Terms of Use.</p>
               
               <p className="mt-4">All disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of Indian courts and governed by the laws of India.</p>
-
-              <h2 className="text-2xl font-bold mt-8 mb-4">Governing Law and Jurisdiction</h2>
-              <p>These Terms shall be governed and interpreted in accordance with the laws of India. Any disputes arising out of or relating to the use of this website shall be subject to the exclusive jurisdiction of the courts located in Gurgaon, Haryana.</p>
             </div>
             
             <div className="mt-8 pt-8 border-t border-white/20">
