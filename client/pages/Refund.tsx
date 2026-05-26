@@ -47,7 +47,12 @@ export default function Refund() {
               </ul>
               
               <h2 className="text-2xl font-bold mt-8 mb-4">7. Contact Us</h2>
-              <p>If you have any questions about our refund policy, please contact us at <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a>.</p>
+              <p>If you have any questions about our refund policy, please contact us:</p>
+              <ul className="list-disc pl-6 space-y-2 mt-2">
+                <li>Contact Number: 9667687077</li>
+                <li>Full Address: B-123, SUNCITY, SECTOR-54, Gurgaon, Haryana, 122011</li>
+                <li>Email ID: <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></li>
+              </ul>
             </div>
             
             <div className="mt-8 pt-8 border-t border-white/20">

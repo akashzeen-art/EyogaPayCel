@@ -18,7 +18,7 @@ export default function Privacy() {
             <div className="space-y-6 text-sm leading-relaxed text-white/90">
 
               <p>
-                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or use <strong>https://E-Yoga Studio.com/</strong> (the "Site") or any of our services (collectively, the "Services").
+                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or use <strong>https://globalyoga.live/</strong> (the "Site") or any of our services (collectively, the "Services").
               </p>
               <p>
                 By using our Services, you agree to the collection and use of information as outlined in this Privacy Policy. If you do not agree, please do not use the Services.
@@ -137,8 +137,7 @@ export default function Privacy() {
                 </p>
               </div>
 
-              {/* 11 */}
-              <h2 className="text-2xl font-bold text-white mt-8">11. Your Rights</h2>
+              <h2 className="text-2xl font-bold text-white mt-8">9. Your Rights</h2>
               <p>Depending on your jurisdiction, you may have the right to:</p>
               <ul className="list-disc pl-6 space-y-1 mt-2">
                 <li>Access and update your personal information</li>
@@ -147,15 +146,17 @@ export default function Privacy() {
                 <li>Restrict or object to certain data processing</li>
                 <li>Request data portability</li>
               </ul>
-              <p className="mt-4">To make any such request, please contact us at:</p>
-              <p className="mt-2">📧 <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></p>
-              <p>📍 Alphamovil Digital Solution LLP, Sector 54, Gurgaon, Haryana, 122011</p>
 
-              {/* 12 */}
-              <h2 className="text-2xl font-bold text-white mt-8">12. Updates to this Privacy Policy</h2>
-              <p>
-                We may update this Privacy Policy periodically to reflect changes in our practices or legal obligations. Updates will be posted on this page with the revised date.
-              </p>
+              <h2 className="text-2xl font-bold text-white mt-8">Governing Law and Jurisdiction</h2>
+              <p>These Terms shall be governed and interpreted in accordance with the laws of India. Any disputes arising out of or relating to the use of this website shall be subject to the exclusive jurisdiction of the courts located in Gurgaon, Haryana.</p>
+
+              <h2 className="text-2xl font-bold text-white mt-8">Contact Information</h2>
+              <p>To make any such request, or for privacy-related inquiries, please contact us:</p>
+              <ul className="list-disc pl-6 space-y-1 mt-2">
+                <li>Contact Number: 9667687077</li>
+                <li>Full Address: B-123, SUNCITY, SECTOR-54, Gurgaon, Haryana, 122011</li>
+                <li>Email ID: <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></li>
+              </ul>
 
             </div>
 

@@ -16,7 +16,7 @@ export default function Terms() {
             <p className="text-sm mb-8">Last Updated: 30-06-2025</p>
             
             <div className="space-y-6 text-sm leading-relaxed">
-              <p>At Alphamovil Digital Solutions LLP, accessible one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected  and how we use it.</p>
+              <p>At Alphamovil Digital Solutions LLP, accessible one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and how we use it.</p>
               
               <h2 className="text-2xl font-bold mt-8 mb-4">Consent</h2>
               <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
@@ -44,8 +44,21 @@ export default function Terms() {
               
               <h2 className="text-2xl font-bold mt-8 mb-4">Terms and Conditions</h2>
               <p>The Platform is owned by Alphamovil Digital Solutions LLP, a company incorporated under the Companies Act, 1956. Your use of the Platform and services are governed by these Terms of Use.</p>
-              
-              <p className="mt-4">All disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of Indian courts and governed by the laws of India.</p>
+
+              <h2 className="text-2xl font-bold mt-8 mb-4">Disclaimer</h2>
+              <div className="bg-purple-500/20 border border-purple-400/30 rounded-xl p-5">
+                <p>The content provided on this platform, including all yoga classes, videos, and related materials, is intended for general fitness and wellness purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Users are advised to consult a qualified healthcare professional before starting any new exercise program, especially if they have any pre-existing medical conditions, injuries, or concerns. By participating in these classes, you acknowledge that you do so voluntarily and at your own risk. The platform and its instructors shall not be held responsible for any injuries, damages, or losses that may occur as a result of using this content. Individual results may vary.</p>
+              </div>
+
+              <h2 className="text-2xl font-bold mt-8 mb-4">Governing Law and Jurisdiction</h2>
+              <p>These Terms shall be governed and interpreted in accordance with the laws of India. Any disputes arising out of or relating to the use of this website shall be subject to the exclusive jurisdiction of the courts located in Gurgaon, Haryana.</p>
+
+              <h2 className="text-2xl font-bold mt-8 mb-4">Contact Information</h2>
+              <ul className="list-disc pl-6 space-y-2">
+                <li>Contact Number: 9667687077</li>
+                <li>Full Address: B-123, SUNCITY, SECTOR-54, Gurgaon, Haryana, 122011</li>
+                <li>Email ID: <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></li>
+              </ul>
             </div>
             
             <div className="mt-8 pt-8 border-t border-white/20">
