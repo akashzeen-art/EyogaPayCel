@@ -18,7 +18,7 @@ export default function Privacy() {
             <div className="space-y-6 text-sm leading-relaxed text-white/90">
 
               <p>
-                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or use <strong>https://globalyoga.live/</strong> (the "Site") or any of our services (collectively, the "Services").
+                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or use <strong>https://e-yoga.life/</strong> (the "Site") or any of our services (collectively, the "Services").
               </p>
               <p>
                 By using our Services, you agree to the collection and use of information as outlined in this Privacy Policy. If you do not agree, please do not use the Services.
